@@ -1,0 +1,2 @@
+Para melhoria do codigo eu colocaria mais informações a respeito do cep, como por exemplo o complemento e cidade para deixar mais completo o retorno da busca.
+Melhorias visuais na apresentação do programa. (Algumas já realizadas no codigo).
