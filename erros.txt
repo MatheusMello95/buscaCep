@@ -1,0 +1,6 @@
+1- idex.php: Esta errado pois deve se passar o nome da pagina que queremos redirecionar que no caso seria index.php
+2- $cp: Esta errado pois a variavel correta é a $cep, então passando a variavel $cp ela esta vazia.
+3- $addres: Esta errado pois a variavel esta escrita errado, o correto seria address com dois S.
+4- $url = "http://viacep.com.br/ws$cep/xml/": O caminho passado esta incorreto pois falta uma '/' antes do $cep.
+5- logradoro: Esta escrito errado, pegando o que vem do XML a palavra correta é logradouro
+6- $adress: Esta errado pois a variavel esta escrita errado, o correto seria address com dois D.

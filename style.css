@@ -1,0 +1,65 @@
+body{
+    background: #f1f5fe;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+#card{
+    width: 500px;
+    height: 500px;
+    background: white;
+    box-shadow: 3px 3px #dadada;
+    text-align: center;
+    border-radius: 5px;
+}
+
+form{
+    padding: 15px;
+}
+
+.info{
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.cep{
+    margin-top: -20px;
+    border-radius: 5px;
+    height: 35px;
+}
+
+.button{
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: 2px solid #03a106;
+    background: none;
+    margin-top: 15px;
+    color: #03a106;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.button:hover{
+    background: #03a106;
+    color: #fff;
+}
+
+.retorno{
+    margin-top: 20px;
+    margin-left: 150px;
+    text-align: left;
+}
+
+.resp{
+    font-size: 20px;
+    font-weight: bold;
+}
+
