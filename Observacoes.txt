@@ -1,2 +1,3 @@
 Para melhoria do codigo eu colocaria mais informações a respeito do cep, como por exemplo o complemento e cidade para deixar mais completo o retorno da busca.
 Melhorias visuais na apresentação do programa. (Algumas já realizadas no codigo).
+Fazer o processo inverso, de ao jogar a Rua e o Numero ele fazer a busca do CEP caso o usuario não saiba o CEP.
